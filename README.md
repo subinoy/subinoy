@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi Everyone!! 👋
+I'm Subinoy, a bioinformatics data scientist with a background in NGS and machine learning!
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
+
+![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=blue)
+
+![C](https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=social) ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+
 
 <!--
 **subinoy/subinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
