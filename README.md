@@ -5,7 +5,7 @@ I'm Subinoy, a bioinformatics data scientist with a background in NGS and machin
 
 ![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=blue)
 
-![C](https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=social) ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![C++](https://img.shields.io/badge/C++-green.svg?style=flat&logo=c%2B%2B)
 
 
 <!--
