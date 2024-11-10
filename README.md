@@ -1,5 +1,8 @@
 ## Hi Everyone!! 👋
-I'm Subinoy, a bioinformatics data scientist with a background in NGS and machine learning!
+I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a background in NGS and Machine Learning! I have expertise in analyzing complex genomic data, specializing in **Cancer** and **Alzheimer's disease** research. Skilled in **variant** and **CNV** analysis from **WGS** and **WES** data, building robust **bioinformatics pipelines** for various genomic data types, including bulk **RNA-Seq**, **ATAC-Seq**, **single-cell RNA-Seq**, and **network** data analysis. I also have experience in system administration of **CentOS HPC clusters** and a passionate Linux user including **Raspberry Pi** and other microcontrollers. I love developing innovative **machine learning** algorithms not only for my research, but in various other data science projects incuding finance!
+
+![image](https://github.com/user-attachments/assets/f59b3f02-f8a9-4482-a61d-50d69d20a559)
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 
