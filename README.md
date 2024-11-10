@@ -3,7 +3,7 @@ I'm Subinoy, a bioinformatics data scientist with a background in NGS and machin
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 
-![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=blue)
+![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-green.svg?style=flat&logo=c%2B%2B)
 
