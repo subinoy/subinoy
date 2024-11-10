@@ -10,18 +10,7 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 ![C++](https://img.shields.io/badge/C++-green.svg?style=flat&logo=c%2B%2B)
 
-
-
-
-
-
 ![863913](https://github.com/user-attachments/assets/c56ed644-f7d9-42fe-bc5d-4c0b8c680bbd)
-
-
-
-
-
-
 
 
 
