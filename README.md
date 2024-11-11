@@ -10,9 +10,11 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 ![C++](https://img.shields.io/badge/C++-green.svg?style=flat&logo=c%2B%2B)
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 ![863913](https://github.com/user-attachments/assets/c56ed644-f7d9-42fe-bc5d-4c0b8c680bbd)
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)]
+
 
 
 <!--
