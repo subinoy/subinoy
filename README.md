@@ -14,8 +14,9 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 [DL](/data/Coursera_DL.pdf)
 
-<img src="/data/underconstruction.png" width="500" />
-
+<p style="text-align:center;">
+  <img src="/data/underconstruction.png" width="500" >
+</p>
 
 
 
