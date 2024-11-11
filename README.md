@@ -12,7 +12,7 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-![Alt text](/data/Coursera_DL.dsc)
+[DL](/data/Coursera_DL.pdf)
 
 ![863913](https://github.com/user-attachments/assets/c56ed644-f7d9-42fe-bc5d-4c0b8c680bbd)
 
