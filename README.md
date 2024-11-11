@@ -16,7 +16,6 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 <img src="/data/underconstruction.png" width="500" />
 
-![863913](https://github.com/user-attachments/assets/c56ed644-f7d9-42fe-bc5d-4c0b8c680bbd)
 
 
 
