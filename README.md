@@ -6,7 +6,7 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 
-![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![R](https://img.shields.io/badge/R-3776AB?style=flat&logo=r&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-green.svg?style=flat&logo=c%2B%2B)
 
