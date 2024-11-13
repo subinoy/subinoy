@@ -22,6 +22,8 @@ I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a backgroun
 
 
 ![](https://komarev.com/ghpvc/?username=subinoy)
+
+![](https://profile-counter.glitch.me/subinoy/count.svg)
 <!--
 **subinoy/subinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
