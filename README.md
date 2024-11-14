@@ -1,4 +1,5 @@
 ## Hi Everyone!! 👋    ![Slide-in animation](./data/slide-in-animation.svg)
+
 ### About Me
 
 I'm Subinoy, a tech lover and explorer!!
