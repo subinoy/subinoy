@@ -51,6 +51,37 @@ I'm Subinoy, a tech lover and explorer!!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subinoy-biswas-31400) 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation Test</title>
+    <style>
+        @keyframes slideIn {
+            from {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .animated-element {
+            animation: slideIn 1s ease-in-out;
+            font-size: 24px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-element">Hello, I slide in!</div>
+</body>
+</html>
+
 <p align="center" width="100%">
     <img width="50%" src="/data/underconstruction.png">
 </p>
