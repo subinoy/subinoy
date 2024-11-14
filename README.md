@@ -1,4 +1,18 @@
 ## Hi Everyone!! 👋
+About Me
+🎓 Bioinformatician and Data Scientist specializing in Next-Generation Sequencing (NGS) and Machine Learning
+🧬 Genomic Expertise:
+Cancer and Alzheimer’s disease research
+Variant analysis, Copy Number Variation (CNV) detection from WGS and WES data
+Bioinformatics pipelines for bulk RNA-Seq, ATAC-Seq, single-cell RNA-Seq, and network data analysis
+🖥️ Bioinformatics and Data Pipelines:
+Skilled in building and optimizing robust pipelines across various genomic data types
+🔧 System Administration:
+Experienced in managing CentOS HPC clusters and a passionate Linux user, including Raspberry Pi and other microcontrollers
+🤖 Machine Learning:
+Developing innovative ML algorithms for genomics and other data science fields, including finance!
+
+
 I'm Subinoy, a highly motivated Bioinformatician Data Scientist with a background in NGS and Machine Learning! I have expertise in analyzing complex genomic data, specializing in **Cancer** and **Alzheimer's disease** research. Skilled in **variant** and **CNV** analysis from **WGS** and **WES** data, building robust **bioinformatics pipelines** for various genomic data types, including bulk **RNA-Seq**, **ATAC-Seq**, **single-cell RNA-Seq**, and **network** data analysis. I also have experience in system administration of **CentOS HPC clusters** and a passionate Linux user including **Raspberry Pi** and other microcontrollers. I love developing innovative **machine learning** algorithms not only for my research, but in various other data science projects incuding finance!
 
 # 💻 Tech Stack:
