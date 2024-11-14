@@ -52,35 +52,13 @@ I'm Subinoy, a tech lover and explorer!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subinoy-biswas-31400) 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animation Test</title>
-    <style>
-        @keyframes slideIn {
-            from {
-                transform: translateX(-100%);
-                opacity: 0;
-            }
-            to {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="35" font-size="30" fill="black">
+    <animate attributeName="x" from="-200" to="0" dur="1s" fill="freeze" />
+    Slide In!
+  </text>
+</svg>
 
-        .animated-element {
-            animation: slideIn 1s ease-in-out;
-            font-size: 24px;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <div class="animated-element">Hello, I slide in!</div>
-</body>
-</html>
 
 <p align="center" width="100%">
     <img width="50%" src="/data/underconstruction.png">
