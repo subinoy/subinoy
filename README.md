@@ -49,7 +49,7 @@ I'm Subinoy, a tech lover and explorer!!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subinoy-biswas-31400) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subinoy-biswas-314007) 
 
 ![Slide-in animation](./data/slide-in-animation.svg)
 
