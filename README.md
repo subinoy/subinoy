@@ -51,13 +51,7 @@ I'm Subinoy, a tech lover and explorer!!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subinoy-biswas-31400) 
 
-
-<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="35" font-size="30" fill="black">
-    <animate attributeName="x" from="-200" to="0" dur="1s" fill="freeze" />
-    Slide In!
-  </text>
-</svg>
+![Slide-in animation](./data/slide-in-animation.svg)
 
 
 <p align="center" width="100%">
