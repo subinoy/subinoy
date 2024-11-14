@@ -1,5 +1,5 @@
-<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
-  <text x="-300" y="32" font-size="30" fill="Yellow">
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="-300" y="40" font-size="30" fill="Yellow">
     <animate attributeName="x" from="-300" to="0" dur="2s" fill="freeze" />
     I slide in!!
   </text>
