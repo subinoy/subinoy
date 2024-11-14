@@ -1,4 +1,4 @@
-## Hi Everyone!! 👋    ![Slide-in animation](./data/slide-in-animation.svg)
+## Hi Everyone 👋    ![Slide-in animation](./data/slide-in-animation.svg)
 
 ### About Me
 
