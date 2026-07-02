@@ -1,14 +1,25 @@
 ## Hi Everyone 👋    ![Slide-in animation](./data/slide-in-animation.svg)
+Bioinformatician · Data Scientist · Pipeline Builder · Tinkerer
 
-### About Me
+🧬 About Me
 
-I'm Subinoy — Bioinformatician, Data Scientist, and compulsive pipeline builder.
+I'm a Bioinformatician and Data Scientist (Ph.D. in Bioinformatics, 13+ years) who builds computational pipelines that turn raw genomic data into biological answers — and increasingly, into tools clinicians can actually use.
 
-🧬 Computational Genomics  
-PhD in Bioinformatics with 13+ years across the full NGS stack. Currently building organ-specific epigenetic aging clocks and a commercial R Shiny platform processing Illumina EPIC methylation data (up to 2.3M CpG sites, 750+ samples) with automated clinical reporting. Previously: Alzheimer's generalised logistic regression on the LLFS cohort (n=3,475), CNV detection by Manta through Parliament2 at Columbia, scRNA-seq and ATAC-seq for cancer immunology at Pittsburgh, WGS/WES variant calling in AWS (GATK4) at Karyosoft.
+Currently building organ-specific epigenetic aging clocks and a commercial R Shiny platform processing Illumina EPIC methylation data (up to 2.3M CpG sites, 750+ samples) with automated clinical reporting.
 
-🔩 Pipeline Architecture  
-Nextflow DSL2 and Snakemake for production workflows. Docker/Singularity for containerization. AWS + HPC (Slurm/PBS) for compute. Everything version-controlled, everything reproducible.
+Previously:
+
+
+*🧠 Alzheimer's generalised logistic regression on the Long Life Family Study cohort (n=3,475) and CNV detection  by Manta through Parliament2 @ Columbia University  
+*🔬 scRNA-seq and ATAC-seq for cancer immunology @ University of Pittsburgh  
+*🧬 WGS/WES variant calling in AWS (GATK4) at @ Karyosoft  
+*🦠 Nanopore long-read variant calling + metagenomics-to-AMR pipelines (ABRicate, AMRFinderPlus, RGI/CARD)  
+
+🔩 What I Build
+
+Raw FASTQ  →  QC  →  Alignment  →  Variant Calling / Methylation / Expression
+     └──  Nextflow DSL2 / Snakemake  ──  Docker / Singularity  ──  AWS / HPC
+                          └──  R Shiny / Streamlit dashboards for non-specialists
 
 🐍 Stack  
 Python (NumPy, Pandas, BioPython, Scikit-learn, PyTorch) · R (Bioconductor, Seurat, DESeq2, Tidyverse) · BASH · PostgreSQL
@@ -17,10 +28,15 @@ Python (NumPy, Pandas, BioPython, Scikit-learn, PyTorch) · R (Bioconductor, Seu
 * Experienced in managing CentOS HPC clusters and a passionate Kali Linux user, including Raspberry Pi and other microcontrollers.
 
 🤖 ML in Genomics & Beyond  
-* Elastic net for epigenetic clock training · Random forest and logistic regression for biomarker classification · And yes — also applying ML to algorithmic trading on Indian markets (NSE/Nifty), because why not.
+* Elastic net for epigenetic clock training · Biomarker classification · WGCNA co-expression networks
+...and yes, also applying ML to algorithmic trading on Indian markets (NSE/Nifty, TimescaleDB, Dhan API) — because the same pattern-recognition problems show up everywhere.
 
-🛠️ Tinkerer  
-Raspberry Pi cluster for distributed computing · ADS-B aircraft tracking · SDR experiments · MinKNOW/Nanopore long-read sequencing pipelines
+🛠️ Tinkerer
+
+
+*🍓 Raspberry Pi cluster for distributed Monte Carlo simulations  
+*✈️ ADS-B aircraft tracking near Chennai (dump1090-fa + R820T2 SDR dongle)  
+*📡 NOAA weather satellite reception at 137 MHz
 
 # 💻 Tech Stack:
 
