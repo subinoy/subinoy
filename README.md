@@ -2,28 +2,25 @@
 
 ### About Me
 
-I'm Subinoy, a tech lover and explorer!!
+I'm Subinoy — Bioinformatician, Data Scientist, and compulsive pipeline builder.
 
-🎓 By profession a Bioinformatician and Data Scientist specializing in Next-Generation Sequencing (NGS) and Machine Learning
+🧬 Computational Genomics  
+PhD in Bioinformatics with 13+ years across the full NGS stack. Currently building organ-specific epigenetic aging clocks and a commercial R Shiny platform processing Illumina EPIC methylation data (up to 2.3M CpG sites, 750+ samples) with automated clinical reporting. Previously: Alzheimer's generalised logistic regression on the LLFS cohort (n=3,475), CNV detection by Manta through Parliament2 at Columbia, scRNA-seq and ATAC-seq for cancer immunology at Pittsburgh, WGS/WES variant calling in AWS (GATK4) at Karyosoft.
 
-🧬 Genomic Expertise:
-* Cancer and Alzheimer’s disease research
+🔩 Pipeline Architecture  
+Nextflow DSL2 and Snakemake for production workflows. Docker/Singularity for containerization. AWS + HPC (Slurm/PBS) for compute. Everything version-controlled, everything reproducible.
 
-* Variant analysis, Copy Number Variation (CNV) detection from WGS and WES data
+🐍 Stack  
+Python (NumPy, Pandas, BioPython, Scikit-learn, PyTorch) · R (Bioconductor, Seurat, DESeq2, Tidyverse) · BASH · PostgreSQL
 
-* Bioinformatics pipelines for bulk RNA-Seq, ATAC-Seq, single-cell RNA-Seq, and network data analysis
+🔧 System Administration:  
+* Experienced in managing CentOS HPC clusters and a passionate Kali Linux user, including Raspberry Pi and other microcontrollers.
 
-🖥️ Bioinformatics and Data Pipelines:
+🤖 ML in Genomics & Beyond  
+* Elastic net for epigenetic clock training · Random forest and logistic regression for biomarker classification · And yes — also applying ML to algorithmic trading on Indian markets (NSE/Nifty), because why not.
 
-* Skilled in building and optimizing robust pipelines across various genomic data types
-
-🔧 System Administration:
-* Experienced in managing CentOS HPC clusters and a passionate Linux user, including Raspberry Pi and other microcontrollers
-
-🤖 Machine Learning:
-* Developing innovative ML algorithms for genomics and other data science fields, including finance!
-
-
+🛠️ Tinkerer  
+Raspberry Pi cluster for distributed computing · ADS-B aircraft tracking · SDR experiments · MinKNOW/Nanopore long-read sequencing pipelines
 
 # 💻 Tech Stack:
 
